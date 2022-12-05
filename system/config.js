@@ -7,7 +7,7 @@ global.max_upload = 250
 // Delay for spamming protection (Default : 3 seconds)
 global.cooldown = 3
 // User Limitation (Default : 10000)
-global.limit = 10000
+global.limit = 9000000
 // Time to be temporarily banned and others (Default : 30 minutes)
 global.timer = 1800000
 // Symbols that are excluded when adding a prefix (Don't change it)
